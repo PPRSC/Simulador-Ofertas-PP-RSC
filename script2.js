@@ -491,8 +491,8 @@ function updateImage(op1, op2, op3, op4, op5) {
   imgPosPre5.src = "img/claroPos.png"
   imgPosPre5.style.width = "100px";
 
-  var bonus1 = document.getElementById("bonus1");
-  bonus1.src = "img/10gbblack.png"
+  //var bonus1 = document.getElementById("bonus1");
+  //bonus1.src = "img/10gbblack.png"
   var bonus2 = document.getElementById("bonus2");
   bonus2.src = "img/10gbblack.png"
   var bonus3 = document.getElementById("bonus3");
@@ -516,19 +516,19 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo1.src = "img/100gb.png";
-      bonus1.src = "img/30gbblack.png"
+      //bonus1.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo1.src = "img/200gb.png";
-      bonus1.src = "img/50gbblack.png"
+      //bonus1.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo1.src = "img/300gb.png";
-      bonus1.src = "img/50gbblack.png"
+      //bonus1.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo1.src = "img/600gb.png";
-      bonus1.src = "img/50gbblack.png"
+      //bonus1.src = "img/50gbblack.png"
       break;
     default:
       imgCombo1.src = "img/nada.jpg";
