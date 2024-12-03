@@ -493,14 +493,14 @@ function updateImage(op1, op2, op3, op4, op5) {
 
   //var bonus1 = document.getElementById("bonus1");
   //bonus1.src = "img/10gbblack.png"
-  var bonus2 = document.getElementById("bonus2");
-  bonus2.src = "img/10gbblack.png"
-  var bonus3 = document.getElementById("bonus3");
-  bonus3.src = "img/10gbblack.png"
-  var bonus4 = document.getElementById("bonus4");
-  bonus4.src = "img/10gbblack.png"
-  var bonus5 = document.getElementById("bonus5");
-  bonus5.src = "img/10gbblack.png"
+  //var bonus2 = document.getElementById("bonus2");
+  //bonus2.src = "img/10gbblack.png"
+  //var bonus3 = document.getElementById("bonus3");
+  //bonus3.src = "img/10gbblack.png"
+  //var bonus4 = document.getElementById("bonus4");
+  //bonus4.src = "img/10gbblack.png"
+  //var bonus5 = document.getElementById("bonus5");
+  //bonus5.src = "img/10gbblack.png"
 
   switch (op1.internetMovel) {
     case "20":
@@ -550,19 +550,19 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo2.src = "img/100gb.png";
-      bonus2.src = "img/30gbblack.png"
+      //bonus2.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo2.src = "img/200gb.png";
-      bonus2.src = "img/50gbblack.png"
+      //bonus2.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo2.src = "img/300gb.png";
-      bonus2.src = "img/50gbblack.png"
+      //bonus2.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo2.src = "img/600gb.png";
-      bonus2.src = "img/50gbblack.png"
+      //bonus2.src = "img/50gbblack.png"
       break;
     default:
       // Opcional: código para imagem padrão ou ação alternativa
@@ -583,19 +583,19 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo3.src = "img/100gb.png";
-      bonus3.src = "img/30gbblack.png"
+      //bonus3.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo3.src = "img/200gb.png";
-      bonus3.src = "img/50gbblack.png"
+      //bonus3.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo3.src = "img/300gb.png";
-      bonus3.src = "img/50gbblack.png"
+      //bonus3.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo3.src = "img/600gb.png";
-      bonus3.src = "img/50gbblack.png"
+      //bonus3.src = "img/50gbblack.png"
       break;
     default:
       // Opcional: código para imagem padrão ou ação alternativa
@@ -617,19 +617,19 @@ function updateImage(op1, op2, op3, op4, op5) {
         break;
       case "100":
         imgCombo4.src = "img/100gb.png";
-        bonus4.src = "img/30gbblack.png"
+        //bonus4.src = "img/30gbblack.png"
         break;
       case "200":
         imgCombo4.src = "img/200gb.png";
-        bonus4.src = "img/50gbblack.png"
+        //bonus4.src = "img/50gbblack.png"
         break;
       case "300":
         imgCombo4.src = "img/300gb.png";
-        bonus4.src = "img/50gbblack.png"
+        //bonus4.src = "img/50gbblack.png"
         break;
       case "600":
         imgCombo4.src = "img/600gb.png";
-        bonus4.src = "img/50gbblack.png"
+        //bonus4.src = "img/50gbblack.png"
         break;
       default:
         // Opcional: código para imagem padrão ou ação alternativa
@@ -652,19 +652,19 @@ function updateImage(op1, op2, op3, op4, op5) {
         break;
       case "100":
         imgCombo5.src = "img/100gb.png";
-        bonus5.src = "img/30gbblack.png"
+        //bonus5.src = "img/30gbblack.png"
         break;
       case "200":
         imgCombo5.src = "img/200gb.png";
-        bonus5.src = "img/50gbblack.png"
+        //bonus5.src = "img/50gbblack.png"
         break;
       case "300":
         imgCombo5.src = "img/300gb.png";
-        bonus5.src = "img/50gbblack.png"
+        //bonus5.src = "img/50gbblack.png"
         break;
       case "600":
         imgCombo5.src = "img/600gb.png";
-        bonus5.src = "img/50gbblack.png"
+        //bonus5.src = "img/50gbblack.png"
         break;
       default:
         // Opcional: código para imagem padrão ou ação alternativa
