@@ -502,6 +502,17 @@ function updateImage(op1, op2, op3, op4, op5) {
   //var bonus5 = document.getElementById("bonus5");
   //bonus5.src = "img/10gbblack.png"
 
+  var app1 = document.getElementById("app1");
+  app1.src = "img/APP1.png"
+  var app2 = document.getElementById("app2");
+  app2.src = "img/APP1.png"
+  var app3 = document.getElementById("app3");
+  app3.src = "img/APP1.png"
+  var app4 = document.getElementById("app4");
+  app4.src = "img/APP1.png"
+  var app5 = document.getElementById("app5");
+  app5.src = "img/APP1.png"
+
   switch (op1.internetMovel) {
     case "20":
       imgCombo1.src = "img/20gb.jpg";
@@ -516,18 +527,22 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo1.src = "img/100gb.png";
+      app1.src = "img/APP2.png"
       //bonus1.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo1.src = "img/200gb.png";
+      app1.src = "img/APP3.png"
       //bonus1.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo1.src = "img/300gb.png";
+      app1.src = "img/APP4.png"
       //bonus1.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo1.src = "img/600gb.png";
+      app1.src = "img/APP5.png"
       //bonus1.src = "img/50gbblack.png"
       break;
     default:
@@ -550,18 +565,22 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo2.src = "img/100gb.png";
+      app2.src = "img/APP2.png"
       //bonus2.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo2.src = "img/200gb.png";
+      app2.src = "img/APP3.png"
       //bonus2.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo2.src = "img/300gb.png";
+      app2.src = "img/APP4.png"
       //bonus2.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo2.src = "img/600gb.png";
+      app2.src = "img/APP5.png"
       //bonus2.src = "img/50gbblack.png"
       break;
     default:
@@ -583,18 +602,22 @@ function updateImage(op1, op2, op3, op4, op5) {
       break;
     case "100":
       imgCombo3.src = "img/100gb.png";
+      app3.src = "img/APP2.png"
       //bonus3.src = "img/30gbblack.png"
       break;
     case "200":
       imgCombo3.src = "img/200gb.png";
+      app3.src = "img/APP3.png"
       //bonus3.src = "img/50gbblack.png"
       break;
     case "300":
       imgCombo3.src = "img/300gb.png";
+      app3.src = "img/APP4.png"
       //bonus3.src = "img/50gbblack.png"
       break;
     case "600":
       imgCombo3.src = "img/600gb.png";
+      app3.src = "img/APP5.png"
       //bonus3.src = "img/50gbblack.png"
       break;
     default:
@@ -617,18 +640,22 @@ function updateImage(op1, op2, op3, op4, op5) {
         break;
       case "100":
         imgCombo4.src = "img/100gb.png";
+        app4.src = "img/APP2.png"
         //bonus4.src = "img/30gbblack.png"
         break;
       case "200":
         imgCombo4.src = "img/200gb.png";
+        app4.src = "img/APP3.png"
         //bonus4.src = "img/50gbblack.png"
         break;
       case "300":
         imgCombo4.src = "img/300gb.png";
+        app4.src = "img/APP4.png"
         //bonus4.src = "img/50gbblack.png"
         break;
       case "600":
         imgCombo4.src = "img/600gb.png";
+        app4.src = "img/APP5.png"
         //bonus4.src = "img/50gbblack.png"
         break;
       default:
@@ -652,18 +679,22 @@ function updateImage(op1, op2, op3, op4, op5) {
         break;
       case "100":
         imgCombo5.src = "img/100gb.png";
+        app5.src = "img/APP2.png"
         //bonus5.src = "img/30gbblack.png"
         break;
       case "200":
         imgCombo5.src = "img/200gb.png";
+        app5.src = "img/APP3.png"
         //bonus5.src = "img/50gbblack.png"
         break;
       case "300":
         imgCombo5.src = "img/300gb.png";
+        app5.src = "img/APP4.png"
         //bonus5.src = "img/50gbblack.png"
         break;
       case "600":
         imgCombo5.src = "img/600gb.png";
+        app5.src = "img/APP5.png"
         //bonus5.src = "img/50gbblack.png"
         break;
       default:
