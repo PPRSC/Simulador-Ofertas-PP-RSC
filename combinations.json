@@ -14,13 +14,13 @@
         "faixa4": {
             "id": 5,
             "internetBandaLarga": "500",
-            "vlr_bl": 89.9,
+            "vlr_bl": 99.9,
             "internetMovel": "50",
             "linhas": 2,
             "vlr_movel": 59.9,
             "vlr_movel_port": 59.9,
-            "vlr_total": "149.90",
-            "vlr_total_portin": "149.90"
+            "vlr_total": "159.90",
+            "vlr_total_portin": "159.90"
         },
         "faixa7": {
             "id": 8,
@@ -47,13 +47,13 @@
         "faixa10": {
             "id": 11,
             "internetBandaLarga": "500",
-            "vlr_bl": 89.9,
+            "vlr_bl": 99.9,
             "internetMovel": "100",
             "linhas": 3,
             "vlr_movel": 119.9,
             "vlr_movel_port": 119.9,
-            "vlr_total": "209.90",
-            "vlr_total_portin": "209.90"
+            "vlr_total": "219.90",
+            "vlr_total_portin": "219.90"
         },
         "faixa11": {
             "id": 12,
@@ -80,13 +80,13 @@
         "faixa13": {
             "id": 14,
             "internetBandaLarga": "500",
-            "vlr_bl": 89.9,
+            "vlr_bl": 99.9,
             "internetMovel": "200",
             "linhas": 4,
             "vlr_movel": "169.90",
             "vlr_movel_port": "169.90",
-            "vlr_total": "259.90",
-            "vlr_total_portin": "259.90"
+            "vlr_total": "269.90",
+            "vlr_total_portin": "269.90"
         },
         "faixa14": {
             "id": 15,
@@ -113,13 +113,13 @@
         "faixa16": {
             "id": 17,
             "internetBandaLarga": "500",
-            "vlr_bl": 89.9,
+            "vlr_bl": 99.9,
             "internetMovel": "300",
             "linhas": 5,
             "vlr_movel": 219.9,
             "vlr_movel_port": "219.90",
-            "vlr_total": "309.90",
-            "vlr_total_portin": "309.90"
+            "vlr_total": "319.90",
+            "vlr_total_portin": "319.90"
         },
         "faixa17": {
             "id": 18,
@@ -157,13 +157,13 @@
         "faixa22": {
             "id": 23,
             "internetBandaLarga": "500",
-            "vlr_bl": 89.9,
+            "vlr_bl": 99.9,
             "internetMovel": "600",
             "linhas": 6,
             "vlr_movel": 319.9,
             "vlr_movel_port": 319.9,
-            "vlr_total": "409.90",
-            "vlr_total_portin": "409.90"
+            "vlr_total": "419.90",
+            "vlr_total_portin": "419.90"
         },
         "faixa23": {
             "id": 24,
